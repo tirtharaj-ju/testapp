@@ -1,0 +1,35 @@
+{
+    "channels": [
+        {
+            "channel_id": 6219,
+            "channel_name": "diginarr1984500",
+            "thumbnail_Url": "assets/images/channel-home/Digital _Narrative.png",
+            "channel_displayname": "Digital Narrative"
+        },
+        {
+            "channel_id": 6220,
+            "channel_name": "cdbcognd4800456",
+            "thumbnail_Url": "assets/images/channel-home/cdb.png",
+            "channel_displayname": "CDB Cognizant Digital Business"
+        },
+        {
+            "channel_id": 6221,
+            "channel_name": "cdocognd12706740",
+            "thumbnail_Url": "assets/images/channel-home/cdo.png",
+            "channel_displayname": "CCDO Cognizant Digital Operations"
+        },
+        {
+            "channel_id": 6222,
+            "channel_name": "cdstcogn1967584",
+            "thumbnail_Url": "assets/images/channel-home/cdst.png",
+            "channel_displayname": "CDS&T Cognizant Digital Systems and Technologies"
+        },
+        {
+            "channel_id": 6224,
+            "channel_name": "vert9666406",
+            "thumbnail_Url": "assets/images/channel-home/verticals.png",
+            "channel_displayname": "Verticals"
+        }
+
+    ]
+}
